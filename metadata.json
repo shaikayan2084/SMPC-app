@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel SMPC - Secure Fraud Engine",
+  "description": "A privacy-preserving fraud detection engine using Secure Multi-Party Computation (SMPC) and simulated Homomorphic Encryption (HE) with Gemini-powered AI analysis.",
+  "requestFramePermissions": []
+}
